@@ -1,5 +1,12 @@
 # TEXT-SUMMARIZATION-TOOL
 
+*COMPANY*: CODTECH IT SOLUTIONS
+*NAME*: ABHISHEK RAJ
+*INTERN ID*: CTO4WA33
+*DOMAIN*: ARTIFICIAL INTELLIGENCE
+*DURATION*: 4 WEEKS
+*MENTOR*: NEELA SANTHOSH
+ 
 ## Description
 The Text-Summarizer-Project is an advanced natural language processing (NLP) application that aims to automatically generate concise summaries of large blocks of text. With the ever-increasing amount of information available online and in various documents, extracting key information efficiently has become a crucial task. This project addresses the need for effective and accurate text summarization by utilizing cutting-edge NLP techniques.
 
